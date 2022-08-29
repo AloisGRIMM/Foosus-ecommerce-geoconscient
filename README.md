@@ -7,6 +7,11 @@ Ce dépot contient tout les documents, et le code du projet visant à développe
 
 * Artefacts
   * Organisation
+    * Legacy C4 FR
+    * V2 Project-Authorization
+    * V2+Geo-Aware+Food+Sourcing+-+Briefbusiness+haut+niveau_FR
+    * Vision architecturale FR
+    * org-chart
   * Architecture
     * Déclaration de Travail d’Architecture
     * Spécification des Conditions requises pour l’Architecture
